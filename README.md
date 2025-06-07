@@ -21,3 +21,7 @@ Analysis of customer behavior and sales distribution across multiple store locat
 
 # Conclusion
 This project provided valuable hands-on experience in advanced Excel tools and data visualization techniques. It strengthened my ability to transform raw datasets into actionable business insights, laying a strong foundation for future work in data analysis and dashboard development.
+
+## Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anshrathod01/).
